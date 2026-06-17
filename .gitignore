@@ -1,0 +1,12 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Node (only if you later add a backend)
+node_modules/
+npm-debug.log*
+.env
+.env.local
